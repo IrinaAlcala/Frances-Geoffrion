@@ -926,12 +926,20 @@ h6 {
 
 .dark-version .about-us-section {
     width: 100%;
-    margin: 70px;
-    padding: 20px;
+    margin: 30px;
+    padding: 40px;
     float: left;
     position: relative;
     height: 400px;
+    
 }
+
+  img {
+    width: 70%;
+    height: 450%;
+    
+    
+}  
 .dark-version .heading-color {
     letter-spacing: 1px;
 }
